@@ -1,5 +1,5 @@
 # Resty
-Resty is a very lightweight RESTful routing framework which leverage on Spring , with Resty you can handle url parsing, data encapsulation, Json output, and traditional methods. The requested parameters are method parameters, and the method returns. The value is the return value of the request. The principle is: you will write the method, you will use it.
+Resty is a very lightweight RESTful routing framework, with Resty you can handle url parsing, data encapsulation, Json output, and traditional methods. The requested parameters are method parameters, and the method returns. The value is the return value of the request. The principle is: you will write the method, you will use it.
 
 Since Resty is very simple, it only needs to look at the document to be easy to use. There is no orm provided in Resty, so you also need to choose an orm. It is recommended to use [MongoFuse](https://github.com/funmiayinde/MongoFuse) with Resty to experience the rapid development of RESTful and MongoDB.
 
